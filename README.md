@@ -1,4 +1,4 @@
-### Hey there, I'm  Parvez Khan Digital Creator of App Tech Solutions <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+### Hey there, I'm  Parvez Khan Software Developer of App Tech Solutions <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvezkhanats&label=Views&color=blue&style=plastic&style=for-the-badge" alt="parvezkhanats" /> </p>
 
@@ -10,13 +10,13 @@
 <a href="https://www.instagram.com/parvezkhanats">
     <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.twitter.com/apptechsolutio">
+<a href="https://www.twitter.com/parvezkhanats">
     <img src="https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.youtube.com/channel/UCmfYHxoEsVKu6l1HQBcIYHA">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a href="https://www.pinterest.com/apptechsolutions88">
+<a href="https://www.pinterest.com/parvezkhanats">
     <img src="https://img.shields.io/badge/Pinterest-c8232c?style=for-the-badge&logo=pinterest&logoColor=white" />
 </a>
 <a href="https://www.flickr.com/photos/197974779@N08/">
@@ -25,7 +25,7 @@
 <a href="https://foursquare.com/apptechsolutio">
     <img src="https://img.shields.io/badge/Foursquare-FA4779?style=for-the-badge&logo=foursquare&logoColor=white" />
 </a>
-<a href="https://www.tumblr.com/app-tech-solutions">
+<a href="https://www.tumblr.com/parvezkhanats">
     <img src="https://img.shields.io/badge/Tumblr-D95E40?style=for-the-badge&logo=tumblr&logoColor=white" />
 </a>
 <a href="https://www.fiverr.com/parvezkhantech">
@@ -38,14 +38,14 @@
     <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />
 </a>
 
-<a href="https://parvez.app-techsolutions.com/">
+<a href="https://blogs.app-techsolutions.com/">
     <img src="https://img.shields.io/badge/Blogger-fc4f08?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/company/app-tech-solutions-pach/?viewAsMember=true">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.reddit.com/user/apptechsolutions">
+<a href="https://www.reddit.com/user/parvezkhanats">
     <img src="https://img.shields.io/badge/raddit-%ED001C.svg?&style=for-the-badge&logo=raddit&logoColor=white" />
 </a>
 
