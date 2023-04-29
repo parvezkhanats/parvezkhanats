@@ -1,5 +1,43 @@
 ### Hey there, I'm  Parvez Khan Software Developer of App Tech Solutions <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
+🏅 VETTED WORDPRESS DEVELOPER BY APP TECH SOLUTIONS
+***** app-techsolutions.com *****
+
+🏅 Featured on Upwork Blog Post: upwork.com/resources/
+
+🏅 100+ Successful Projects
+🏅 All 5 Star Ratings and Stellar Reviews
+🏆 100% Satisfied clients
+🏆 100% Recommendation Ratio
+🏆 100% Job Success Rate
+🏆 Top Rated at Upwork
+
+Over the last 10 years, I have developed a wide range of Websites, Web apps, Custom CMS and CRM systems using PHP, MySql, WordPress, Laravel, Codigniter, jQuery, HTML5, CSS3, Javascript, XML, Ajax and including sites for startup companies and small businesses. My core competency lies in the complete end-end management of a new website development project, and I am seeking opportunities to build websites from the ground up for you or your business.
+
+Also LMS development specialist with expertise in custom development with the following stack-
+✅ LearnDash and Moodle
+✅ Buddyboss and BuddyPress
+✅ Infusionsoft and Memberium
+✅ Woocommerce and its addons
+✅ Elementor, Divi, Astra pro
+✅ WordPress Custom Plugins Development
+✅ WordPress Custom Themes Development
+
+
+I can work with any RESTful API and have worked with API's such as Campaign Monitor, IBM, Facebook, PayPa l, Stripe, Amazon, Google API's, Twitter, Boats.com, uship plus dozens of other simple and complex API integrations.
+
+I pride myself on going the extra mile to ensure that your project runs smoothly and efficiently.
+Please check out my reviews, I aim only for 5 star ratings from every client
+
+My skills include but are not limited to:
+
+* PHP, MYSQL, JavaScript, jQuery, HTML, CSS
+* Cakephp, Laravel, CI
+* WordPress | themes, Plugins
+* Git, Apache Solr
+
+Thanks for reading and your time.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvezkhanats&label=Views&color=blue&style=plastic&style=for-the-badge" alt="parvezkhanats" /> </p>
 
 <div align="center">
