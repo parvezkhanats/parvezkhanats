@@ -270,4 +270,4 @@ Open Source Contributor from <b>India<b> 💚
 
 </div>
 
-<p align="center"><img src="https://github.com/parvezkhanats/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/parvezkhanats/parvezkhanats?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/parvezkhanats/parvezkhanats?style=flat-square&labelColor=343b41"/></p>
+<p align="center"> <img alt="Stars" src="https://img.shields.io/github/stars/parvezkhanats/parvezkhanats?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/parvezkhanats/parvezkhanats?style=flat-square&labelColor=343b41"/></p>
