@@ -1,32 +1,31 @@
-### Hey there, I'm  Parvez Khan Software Developer of App Tech Solutions <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+### Website Designing, Website Development, Mobile App Development, Domain Registration, Web Hosting, Search Engine Optimization, Social Media Marketing, Social Media Optimization, Graphic Designing, Brochure Designing, Logo Designing, Static Website Development, Dynamic Website Development, E-Commerce Website Development, Android App Development <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
-🏅 VETTED WORDPRESS DEVELOPER BY APP TECH SOLUTIONS
-***** app-techsolutions.com *****
+WEBSITE DESIGN COMPANY IN PACHMARHI MADHYA PRADESH INDIA
+App Tech Solutions is a leading Website Design Company in Pachmarhi Madhya Pradesh India. Our expertise lies in creating websites according to our clients vision and requirements. We are committed to providing the best services in web technology, both technological and client servicing.
+We are a multi-disciplinary team of highly motivated and innovative professionals, and have gained the trust of several clients by helping them to take their business to new height and generate larger conversions. We specialize in cutting edge web solutions for web designing, web development, e-commerce solutions, internet marketing, Search Engine Optimization (SEO) and IT education . Customer satisfaction is our primary endeavor, making us a leading service-provider in the industry. Our objective is to meet the different requirements of our customers by offering them the best value web design solutions.
+It can be difficult to decide which website design company in Pachmarhi Madhya Pradesh India will tick all the boxes for your requirements and this is where we can help you. At App Tech Solutions we understand how important your company’s online reputation is and we emphasize the importance of a well-structured responsive website by incorporating principles that focus on ease of navigation for the end user, with a unique and professional look suited to your business. The web-sphere is a platform for all future businesses, and we are geared to help you stand out amongst your current and future competitors. We design, develop and promote by understanding your business objective expectations. We specialize in executing strategic internet marketing campaigns which suit your objective and budget.
 
-🏅 Featured on Upwork Blog Post: upwork.com/resources/
-
-🏅 100+ Successful Projects
-🏅 All 5 Star Ratings and Stellar Reviews
-🏆 100% Satisfied clients
-🏆 100% Recommendation Ratio
-🏆 100% Job Success Rate
-🏆 Top Rated at Upwork
-
-Over the last 10 years, I have developed a wide range of Websites, Web apps, Custom CMS and CRM systems using PHP, MySql, WordPress, Laravel, Codigniter, jQuery, HTML5, CSS3, Javascript, XML, Ajax and including sites for startup companies and small businesses. My core competency lies in the complete end-end management of a new website development project, and I am seeking opportunities to build websites from the ground up for you or your business.
-
-Also LMS development specialist with expertise in custom development with the following stack-
-✅ LearnDash and Moodle
-✅ Buddyboss and BuddyPress
-✅ Infusionsoft and Memberium
-✅ Woocommerce and its addons
-✅ Elementor, Divi, Astra pro
-✅ WordPress Custom Plugins Development
-✅ WordPress Custom Themes Development
+### Our Services ###
+✅ Website Desinging
+✅ Website Development
+✅ Mobile App Development
+✅ Doamin Registration
+✅ Web Hosting
+✅ Search Engine Optimization
+✅ Social Media Marketing
+✅ Social Media Optimization
+✅ Graphic Designing
+✅ Brochure Designing
+✅ Logo Designing
+✅ Static Website Development
+✅ Dynamic Website Development
+✅ E-Commerce Website Development
+✅ WordPress Website Development
 
 
-I can work with any RESTful API and have worked with API's such as Campaign Monitor, IBM, Facebook, PayPa l, Stripe, Amazon, Google API's, Twitter, Boats.com, uship plus dozens of other simple and complex API integrations.
+We can work with any RESTful API and have worked with API's such as Campaign Monitor, IBM, Facebook, PayPal, Stripe, Amazon, Google API's, Twitter, Boats.com, uship plus dozens of other simple and complex API integrations.
 
-I pride myself on going the extra mile to ensure that your project runs smoothly and efficiently.
+We pride myself on going the extra mile to ensure that your project runs smoothly and efficiently.
 Please check out my reviews, I aim only for 5 star ratings from every client
 
 My skills include but are not limited to:
